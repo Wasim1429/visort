@@ -34,7 +34,7 @@ The Sorting Algorithm Visualization App is an interactive Android application de
 
 ## Video Demo
 A comprehensive video demonstration of the app is available here:
-- [Sorting Algorithm Visualization App Demo](https://your-link-to-video-demo)
+- [Sorting Algorithm Visualization App Demo](https://github.com/Wasim1429/visort/raw/main/demo.mp4)
 
 This video covers:
 - A walkthrough of the app's features.
