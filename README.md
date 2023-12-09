@@ -38,8 +38,8 @@ A comprehensive video demonstration of the app is available here:
 
 This video covers:
 - A walkthrough of the app's features.
-- Demonstrations of different sorting algorithms.
-- Tips on customizing and using the app effectively.
+- Demonstrations of a sorting algorithm.
+- Steps you need to know to use the app.
 
 ## Architecturally Significant Requirements
 - **Performance**: Optimized for smooth animations and a responsive interface.
